@@ -1,3 +1,7 @@
+/*
+  Iterative/For Loop Solution
+ */
+
 const getListOfPrimeNumbers = ({ startNum, endNum }) => {
   let list = [];
 
