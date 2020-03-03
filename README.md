@@ -23,8 +23,7 @@ You realize you can write a program to do this task for you.
 Specs
 --------
 Write a function that finds all prime numbers in a range. 
-Start and end points are inclusive. 
-Start and end points are greater than 2. 
+Start and end points are inclusive.
 The end point is always greater than the start point. 
 
 Examples
