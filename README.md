@@ -6,7 +6,7 @@ You are going about your day with your brother Kyle when a shiny demon appears o
 
 The demon asks you, "Be you angels?! If so, 
 print me a list of all prime numbers from a range I will give you.
-Then end number will be bigger than the star number.
+Then end number will be bigger than the start number.
 The range is inclusive with both the start and end points.
 Prime numbers are only divisible by 1 and itself. Prime numbers are
 always 2 or greater. 
