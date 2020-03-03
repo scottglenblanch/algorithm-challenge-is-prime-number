@@ -12,14 +12,14 @@ const getListOfPrimeNumbers = ({ startNum, endNum }) => {
 
 const isPrimeNumber = num => {
   for(let divideBy = 2; divideBy <= Math.sqrt(num); divideBy++) {
-    if(hasNoRemainders({ num, divideBy })) {
+    if(dividesWithoutRemainders({ num, divideBy })) {
       return false;
     }
   }
   return num >= 2;
 };
 
-const hasNoRemainders = ({ num, divideBy }) =>
+const dividesWithoutRemainders = ({ num, divideBy }) =>
   num % divideBy === 0;
 
 
